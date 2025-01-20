@@ -17,7 +17,7 @@ A simple Dart application to parse and analyze email headers for digital forensi
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/muhammadumermemon/email-header-analyzer.git
+    git clone https://github.com/muhammadumerbinfarooq/email-header-analyzer.git
     cd email-header-analyzer
     ```
 
